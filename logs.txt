@@ -1,0 +1,74 @@
+
+ Metrics before training:
+ [{'val_loss': 2.310183048248291, 'val_acc': 0.09042968600988388}]
+ Training Metrics Per epochs:
+ -----Model Training Complete | Model Is Ready For Classification-----
+Model Prediction is: ============================ 7
+ Metrics before training:
+ [{'val_loss': 2.2997119426727295, 'val_acc': 0.12539061903953552}]
+ Training Metrics Per epochs:
+ Metrics before training:
+ [{'val_loss': 2.315164089202881, 'val_acc': 0.08583984524011612}]
+ Training Metrics Per epochs:
+ Metrics before training:
+ [{'val_loss': 2.319436550140381, 'val_acc': 0.09433593600988388}]
+ Training Metrics Per epochs:Epoch # 1 | Validation loss: 0.248 | Validation accuracy: 92.471 %Epoch # 2 | Validation loss: 0.166 | Validation accuracy: 95.068 %Epoch # 3 | Validation loss: 0.146 | Validation accuracy: 95.977 %Epoch # 4 | Validation loss: 0.133 | Validation accuracy: 96.143 %Epoch # 5 | Validation loss: 0.139 | Validation accuracy: 96.045 %Epoch # 6 | Validation loss: 0.201 | Validation accuracy: 94.219 %Epoch # 7 | Validation loss: 0.124 | Validation accuracy: 96.416 %Epoch # 8 | Validation loss: 0.14 | Validation accuracy: 95.908 %Epoch # 9 | Validation loss: 0.141 | Validation accuracy: 96.133 %Epoch # 10 | Validation loss: 0.114 | Validation accuracy: 96.709 %
+ -----Model Training Complete | Model Is Ready For Classification-----
+Model Prediction is: ============================ 7
+ Metrics before training:
+ [{'val_loss': 2.3189680576324463, 'val_acc': 0.10009765625}]
+ Training Metrics Per epochs:
+Epoch # 1 | Validation loss: 0.244 | Validation accuracy: 92.773 %
+
+Epoch # 2 | Validation loss: 0.164 | Validation accuracy: 94.805 %
+
+Epoch # 3 | Validation loss: 0.135 | Validation accuracy: 96.162 %
+
+Epoch # 4 | Validation loss: 0.124 | Validation accuracy: 96.182 %
+
+Epoch # 5 | Validation loss: 0.13 | Validation accuracy: 96.182 %
+
+Epoch # 6 | Validation loss: 0.115 | Validation accuracy: 96.738 %
+
+Epoch # 7 | Validation loss: 0.126 | Validation accuracy: 96.367 %
+
+Epoch # 8 | Validation loss: 0.106 | Validation accuracy: 97.051 %
+
+Epoch # 9 | Validation loss: 0.121 | Validation accuracy: 96.973 %
+
+Epoch # 10 | Validation loss: 0.104 | Validation accuracy: 97.217 %
+
+ -----Model Training Complete | Model Is Ready For Classification-----
+ Image Path Provided: MNIST_JPGS\testSet\testSet\img_13.jpg
+ Image Processing Complete
+Model Prediction is: ============================ 7
+ -------- MODEL TRAINING INITIATED ---------
+
+ Metrics before training:
+ [{'val_loss': 2.307616710662842, 'val_acc': 0.10302734375}]
+ Training Metrics Per epochs:
+Epoch # 1 | Validation loss: 0.242 | Validation accuracy: 92.773 %
+
+Epoch # 2 | Validation loss: 0.192 | Validation accuracy: 94.629 %
+
+Epoch # 3 | Validation loss: 0.154 | Validation accuracy: 95.488 %
+
+Epoch # 4 | Validation loss: 0.161 | Validation accuracy: 95.537 %
+
+Epoch # 5 | Validation loss: 0.126 | Validation accuracy: 96.221 %
+
+Epoch # 6 | Validation loss: 0.125 | Validation accuracy: 96.27 %
+
+Epoch # 7 | Validation loss: 0.126 | Validation accuracy: 96.357 %
+
+Epoch # 8 | Validation loss: 0.117 | Validation accuracy: 96.65 %
+
+Epoch # 9 | Validation loss: 0.115 | Validation accuracy: 96.934 %
+
+Epoch # 10 | Validation loss: 0.121 | Validation accuracy: 96.777 %
+
+ -----Model Training Complete | Model Is Ready For Classification-----
+
+ Image Path Provided: MNIST_JPGS\testSet\testSet\img_14.jpg
+ Image Processing Complete
+Model Prediction is: ============================ 0
