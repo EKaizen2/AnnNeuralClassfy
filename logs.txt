@@ -72,3 +72,33 @@ Epoch # 10 | Validation loss: 0.121 | Validation accuracy: 96.777 %
  Image Path Provided: MNIST_JPGS\testSet\testSet\img_14.jpg
  Image Processing Complete
 Model Prediction is: ============================ 0
+ -------- MODEL TRAINING INITIATED ---------
+
+ Metrics before training:
+ [{'val_loss': 2.3151495456695557, 'val_acc': 0.09794922173023224}]
+ Training Metrics Per epochs:
+Epoch # 1 | Validation loss: 0.236 | Validation accuracy: 93.037 %
+
+Epoch # 2 | Validation loss: 0.187 | Validation accuracy: 94.258 %
+
+Epoch # 3 | Validation loss: 0.153 | Validation accuracy: 95.762 %
+
+Epoch # 4 | Validation loss: 0.126 | Validation accuracy: 96.357 %
+
+Epoch # 5 | Validation loss: 0.13 | Validation accuracy: 96.074 %
+
+Epoch # 6 | Validation loss: 0.116 | Validation accuracy: 96.65 %
+
+Epoch # 7 | Validation loss: 0.182 | Validation accuracy: 94.473 %
+
+Epoch # 8 | Validation loss: 0.122 | Validation accuracy: 96.289 %
+
+Epoch # 9 | Validation loss: 0.125 | Validation accuracy: 96.426 %
+
+Epoch # 10 | Validation loss: 0.102 | Validation accuracy: 97.334 %
+
+ -----Model Training Complete | Model Is Ready For Classification-----
+
+ Image Path Provided: MNIST_JPGS\testSet\testSet\img_12.jpg
+ Image Processing Complete
+Model Prediction is: ============================ 7

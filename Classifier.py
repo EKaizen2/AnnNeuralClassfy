@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 import numpy as np
 import random
+import torch.optim as optim
 from torch.utils.data import Dataset, DataLoader, random_split
 
 print("Libraries Imported")
@@ -103,7 +104,7 @@ def evaluate(model, val_loader):
 
 def fit(epochs, lr, model, train_loader, val_loader, opt_func=torch.optim.SGD):
     history = []
-    optimizer = opt_func(model.parameters(), lr)
+    optimizer = optim.SGD(model.parameters(), lr)
 
     for epoch in range(epochs):
 
